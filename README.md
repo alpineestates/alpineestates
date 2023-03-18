@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#>
-    <img src="https://user-images.githubusercontent.com/1711854/220661115-c3500a41-aa18-4971-afd6-ec8413b65f67.png" width="128">
+    <img src="" width="128">
   </a>
   <br/>
   <br/>
