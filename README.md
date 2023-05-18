@@ -1,9 +1,7 @@
 <header>
   <div align="center">
     <a href="https://alpineestates.com">
-      <picture>
-        <img src="https://github.com/alpineestates/alpine-estates/assets/1711854/85e46840-171f-4817-9c8a-e50e0ffb6c20.svg" width="100%" alt="Alpine Estates banner [1200x550]">
-      </picture>
+      <img src="https://user-images.githubusercontent.com/1711854/239383507-85e46840-171f-4817-9c8a-e50e0ffb6c20.svg" width="100%" alt="Alpine Estates banner [1200x550]" />
     </a>
   </div>
   <br />
